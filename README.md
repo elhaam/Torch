@@ -28,8 +28,6 @@ The libraries you need to install:
 ### Installing
 Install the dependencies using "conda", for example:
 
-Say what the step will be
-
 ```
 conda install numpy
 ```
